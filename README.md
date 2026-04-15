@@ -28,7 +28,7 @@ Il focus principale è sulla costruzione della tensione attraverso level design,
 
 ## Gameplay
 
-![Exploration](docs/images/gameplay_02.png)
+![Exploration](docs/images/Gameplay.PNG)
 
 Il gameplay è costruito attorno a:
 
@@ -41,7 +41,8 @@ Il gameplay è costruito attorno a:
 ---
 
 ## Systems Architecture
-
+![Inventory](docs/images/Inventory.PNG)
+![Interaction](docs/images/Interaction.PNG)
 Il progetto è strutturato secondo un’architettura modulare per garantire scalabilità e manutenibilità.
 
 **Core Systems:**
@@ -100,4 +101,5 @@ Stato attuale:
 * Sistema slot in fase di sviluppo
 * AI, level design avanzato e atmosfera ancora in lavorazione
 
+Ringraziamento speciale a **JemGames** per i tutorial forniti sul suo canale Youtube
 ---
