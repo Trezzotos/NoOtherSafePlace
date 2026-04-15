@@ -100,6 +100,5 @@ Stato attuale:
 * Sistemi core (Inventory, Interaction, Note System) implementati
 * Sistema slot in fase di sviluppo
 * AI, level design avanzato e atmosfera ancora in lavorazione
-
 Ringraziamento speciale a **JemGames** per i tutorial forniti sul suo canale Youtube
 ---
