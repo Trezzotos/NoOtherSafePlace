@@ -1,4 +1,4 @@
-# Survival Horror UE
+# No Other Safe Place
 
 ![Map Overview](docs/images/Overview.PNG)
 
