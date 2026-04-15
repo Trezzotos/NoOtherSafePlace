@@ -92,7 +92,7 @@ Questo progetto è stato sviluppato per dimostrare:
 ---
 
 ## Notes
-
+_(Ringraziamento speciale a **JemGames** per i tutorial forniti sul suo canale Youtube)_
 Il progetto è attualmente in fase di sviluppo attivo.
 
 Stato attuale:
@@ -100,5 +100,6 @@ Stato attuale:
 * Sistemi core (Inventory, Interaction, Note System) implementati
 * Sistema slot in fase di sviluppo
 * AI, level design avanzato e atmosfera ancora in lavorazione
-Ringraziamento speciale a **JemGames** per i tutorial forniti sul suo canale Youtube
+
+
 ---
